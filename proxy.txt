@@ -1,4 +1,6 @@
-ip:port
-username:password@ip:port
-http://ip:port
-http://username:password@ip:port
+87.248.129.26:80
+199.102.105.242:4145
+47.91.115.179:80
+98.170.57.231:4145
+106.42.30.243:82
+183.215.23.242:9091
